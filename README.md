@@ -1,4 +1,4 @@
-### Hi :strawberry:
+### Hi I'm : strawberry:
 
 <!--
 **ssonghj/ssonghj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
