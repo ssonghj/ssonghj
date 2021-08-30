@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white"></a>&nbsp;
 
 ### 🎈 more
-<img src="https://img.shields.io/badge/Tech blog-yellow?style=flat&logo=Blog&logoColor=white&link=https://songsong-it.tistory.com/ "></a>
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://songsong-it.tistory.com/)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hyeonjin)](https://solved.ac/hyeonjin)
 
