@@ -2,7 +2,7 @@
 
 ## Hi there, I'm hyeonjin! 👋
   
-🙂I want to be a passionate self-taught Application developer.</br></br>
+🙂I want to be a passionate self-taught developer.</br></br>
 
 ## Languages & Tools
 ### 🔥 most
@@ -17,8 +17,6 @@
 ### 📚 learning
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white"></a>&nbsp;
 
 ### 🎈 more
