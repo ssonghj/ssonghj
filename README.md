@@ -13,7 +13,6 @@
 
 <img src="https://img.shields.io/badge/Flutter-dodgerblue?style=flat&logo=Flutter&logoColor=white"></a>&nbsp;
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"></a>&nbsp;
-<img src="https://img.shields.io/badge/Github-black?style=flat&logo=Github&logoColor=white"></a>&nbsp;
 ### 📚 learning
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp;
