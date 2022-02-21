@@ -15,7 +15,7 @@
 [![gitlab Badge](https://img.shields.io/badge/gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![github Badge](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 </br>
-🎈 *More Info...* **[BLOG](https://songsong-it.tistory.com/)** | **[RESUME]()** | **[CONTECT](hyeonjin0103@naver.com)** 
+🎈 *More Info...* **[BLOG](https://songsong-it.tistory.com/)** | **[RESUME]()** | **[CONTECT](<hyeonjin0103@naver.com>)** 
 
 **SSAFY 7기 Mobile**  <sub><sup>  (2022.01 ~ now)</sup></sub>  
 
