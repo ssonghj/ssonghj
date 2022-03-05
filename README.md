@@ -1,6 +1,6 @@
 # 송현진 *Song Hyeon Jin*
 👩‍💻 Junior BackEnd, Android Mobile App developer </br>
-👩‍🎓 Chungnam National Univ. Computer Engineering  
+👩‍🎓 Chungnam National Univ. Computer Engineering
   
 [![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://Java.info/)
 [![kotlin Badge](https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://www.kotlin.org/)
@@ -15,7 +15,10 @@
 [![gitlab Badge](https://img.shields.io/badge/gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![github Badge](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 </br>
-🎈 *More Info...* **[BLOG](https://songsong-it.tistory.com/)** | **[RESUME]()** 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=hyeonjin)](https://github.com/mazassumnida/mazassumnida)
+</br>
+🎈 *More Info...* **[BLOG](https://songsong-it.tistory.com/)** | **[RESUME]()** |
 
 **SSAFY 7기 Mobile**  <sub><sup>  (2022.01 ~ now)</sup></sub>  
 
