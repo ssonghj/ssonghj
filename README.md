@@ -14,6 +14,7 @@
 [![tensorflow Badge](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.com/)
 [![python Badge](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.com/)
 </br>
+[![git Badge](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)](https://git.com/)
 [![gitlab Badge](https://img.shields.io/badge/gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/)
 [![github Badge](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
 </br>
