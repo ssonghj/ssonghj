@@ -23,8 +23,9 @@
 </br>
 🎈 *More Info...* **[BLOG](https://songsong-it.tistory.com/)** | **[RESUME]()** |
 
-**SSAFY 7기 Mobile**  <sub><sup>  (2022.01 ~ now)</sup></sub>  
+**KT**  <sub><sup>  (2022.07 ~ ing )</sup></sub>  
 
 ---
 **DNLAB** @DataNetwork Lab <sub><sup>학부연구생 (2021.08 ~ 2021.12)</sup></sub>  
 **(주)인포카** @Infocar <sub><sup> intern (2021.06 ~ 2021.08)</sup></sub>  
+**SSAFY 7기 Mobile**  <sub><sup>  (2022.01 ~ 2022.07)</sup></sub>  
